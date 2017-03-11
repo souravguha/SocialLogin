@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Tangerine');
+
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+.navbar-brand {
+	font-family: 'Tangerine', cursive;
+	font-size: 48px;
+}
+.navbar {
+	border-radius: 0px;
+}
+.main-login-cont {
+	margin-top: 70px;
+}
